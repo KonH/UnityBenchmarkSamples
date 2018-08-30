@@ -1,0 +1,7 @@
+Library
+Temp
+.DS_Store
+*.csproj
+*.sln
+.idea
+obj
